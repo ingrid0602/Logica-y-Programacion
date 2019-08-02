@@ -1,3 +1,2 @@
-numpy
-math
-matplotlib
+numpy==1.16.*
+matplotlib==3.*
