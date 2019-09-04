@@ -2,4 +2,3 @@ numpy==1.16.*
 matplotlib==3.*
 jupyterlab_launcher>=0.5.0
 scipy
-string
